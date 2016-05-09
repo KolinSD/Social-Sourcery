@@ -1,0 +1,17 @@
+/*
+	Theme Name: Social Sourcery
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+#contact h1 {
+	color: #02ACFC;
+}
+
+footer.black-bg p, footer.black-bg a {
+    color: #fafafa; 
+}
+
+#features {
+	overflow: hidden;
+}
