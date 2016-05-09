@@ -1251,7 +1251,7 @@
 	}
 
 	.white.header + p{
-		color:#b6b6b6;
+		color:#fafafa;
 	}
 
 /* Header Style 2 */
@@ -2802,7 +2802,7 @@
 	}
 
 	.header.white + p + .boxes.boxes-type-4 .box-header + h5 + p{
-		color:#bfbfbf;
+		color:#fafafa;
 	}
 
 	.boxes.boxes-type-4 .box:hover{
@@ -6491,7 +6491,7 @@
 
 	footer.black-bg p,
 	footer.black-bg a{
-		color:#b2b2b2;
+		color:#fafafa;
 	}
 
 	footer.white-bg p,
